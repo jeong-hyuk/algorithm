@@ -1,5 +1,6 @@
 //백준 No.2884 알람 시계
 
+//헷갈렸다.
 import java.util.Scanner;
 
 public class Main {
