@@ -1,4 +1,4 @@
-//백준 No.3003 킹, 퀸, 룩, 비숍, 나이트, 폰
+//백준 No.2588 곱셈
 
 //자릿수 구하기는 일의자리, 십의자리, 백의자리 등 아래에 나와있는 first, second, third의 순으로 구한다.
 import java.util.Scanner;
