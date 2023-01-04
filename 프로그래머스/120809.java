@@ -1,4 +1,4 @@
-//백준 No.120809 배열 두배 만들기
+//프로그래머스 No.120809 배열 두배 만들기
 
 class Solution {
     public int[] solution(int[] numbers) {
