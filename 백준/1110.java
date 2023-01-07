@@ -36,4 +36,3 @@ public class Main {
     }
  
 }
-Colored by Color Scripter
